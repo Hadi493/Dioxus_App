@@ -3,7 +3,7 @@
 [web.app]
 
 # HTML title tag content
-title = "rust_lib_viewer"
+title = "Dioxus_App"
 
 # include `assets` in web platform
 [web.resource]

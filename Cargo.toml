@@ -1,5 +1,5 @@
 [package]
-name = "rust_lib_viewer"
+name = "Dioxus_App"
 version = "0.1.0"
 authors = ["Hadi4931 <hadialam493@gmail.com>"]
 edition = "2021"
