@@ -36,7 +36,7 @@ pub fn Home() -> Element {
                     href: "https://github.com/Hadi493",
                     class: "btn",
                     target: "_blank",
-                    "🔗 GitHub
+                    "🔗 GitHub"
                 }
             }
 
