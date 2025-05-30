@@ -21,8 +21,10 @@ dx serve
 To run for a different platform, use the `--platform platform` flag. E.g.
 ```bash
 dx serve --platform desktop
+dx serve --platform linux
+```
 ```
 
 
 
->> BTW: This app is not organized
+>> BTW: This app/repo is not organized ***Comin Soon With A Full Stack App***
