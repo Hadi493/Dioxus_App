@@ -1,27 +1,18 @@
-# Development
-
-Your new bare-bones project includes minimal organization with a single `main.rs` file and a few assets.
-
-```
-project/
-├─ assets/ # Any assets that are used by the app should be placed here
-├─ src/
-│  ├─ main.rs # main.rs is the entry point to your application and currently contains all components for the app
-├─ Cargo.toml # The Cargo.toml file defines the dependencies and feature flags for your project
-```
-
-### Serving Your App
+### Serving App
 
 Run the following command in the root of your project to start developing with the default platform:
 
-```bash
+```sh
 dx serve
+# or
+dx serve --port 8000
 ```
 
 To run for a different platform, use the `--platform platform` flag. E.g.
-```bash
+```sh
 dx serve --platform desktop
-dx serve --platform linux
 ```
 
-> BTW: This app/repo is not organized | ***Comin Soon With A Full Stack App*** | *This project is just for learning and fun*
+> ***Warning***: Monolithic but Majestic. Yeah, it’s just one main.rs file. Yeah, it’s not organized. But that’s because we’re building something from scratch, with soul.
+
+> Full-stack mode loading... Until then, it’s just you, the UI, and some well-spent hours.
